@@ -14,5 +14,4 @@ Editor de mundos de Survivalcraft 2
 ## Uso
 - Copia el archivo exportado `.scworld` a uno de los paths mostrados en la página  de inicio del editor
 - Abre el editor
-- After editing, copy the map file back and import it
 - Después de editar, copia el archivo del mapa de regreso e importalo
