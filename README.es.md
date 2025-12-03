@@ -3,7 +3,7 @@ Editor de mundos de Survivalcraft 2
 
 [🇨🇳Chinese](README.md)
 
-[🇪🇸English](README.en.md)
+[🇺🇸English](README.en.md)
 
 ## Características
 - Edita los atributos del mundo (Nombre del mundo, modo de juego, temporada del año (2.4), longitud del año (2.4))
